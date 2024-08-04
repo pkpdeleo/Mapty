@@ -1,6 +1,6 @@
 # Mapty 🗺️
 
-Mapty is an interactive web application that allows users to create personalized reminders associated with specific locations on a map. Using HTML, CSS, and JavaScript, along with the Leaflet.js library, Mapty offers a dynamic and user-friendly map experience.
+Mapty is an interactive web application that allows users to create personalized reminders associated with specific locations on a map. Using **HTML, CSS, and JavaScript**, along with the _Leaflet.js library_, Mapty offers a dynamic and user-friendly map experience.
 
 # Features
 
